@@ -2,7 +2,7 @@
 
 **SDE-1 @ Bajaj Finserv Health** — building scalable healthcare microservices and products.
 
-- 🩺 ABHA/NHA integrations, DocAI WhatsApp EMR bot (200+ doctors), Google Business Profile onboarding
+- 🩺 ABHA/NHA integrations, DocAI WhatsApp EMR bot, Google Business Profile onboarding
 - ⚙️ **Backend:** Node.js · NestJS · Express · Kafka · Redis · MongoDB · PostgreSQL
 - 🖥️ **Frontend:** React · Next.js · TypeScript
 - ☁️ **Cloud:** AWS · Azure · Docker · CI/CD
